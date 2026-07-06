@@ -57,5 +57,5 @@ To analyze over 148,000 historical trips to identify hidden revenue patterns, ma
 ## 📁 Download Project Files
 The raw operational files can be downloaded from the `powerbi-files` folder in this repository:
 - View the raw file: `powerbi-files/TaxiFare Dashboard.pbix`
-- [Download Compressed Project ZIP (Safe Download)](powerbi-files/TaxiFare%20Dashboard%20-%201.zip)
+- [Download Compressed Project ZIP (Safe Download)](powerbi-files/TaxiFare%20Dashboard%20-%201.zip?raw=true)
   
